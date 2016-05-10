@@ -1,0 +1,28 @@
+name: Destruktief
+favicon: null
+layout_spectrum: 0.5217470419593155
+typography_spectrum: 0.22506847837939858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.10406440286897123
+  lightness: 0.07770204450935125
+  saturation: 0.9191409153863788
+  rhythmicContrast: 0.906752118607983
+purpose: []
